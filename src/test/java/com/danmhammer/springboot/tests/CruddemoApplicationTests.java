@@ -1,4 +1,4 @@
-package com.danmhammer.springboot.cruddemo;
+package com.danmhammer.springboot.tests;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
